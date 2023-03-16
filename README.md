@@ -1,14 +1,11 @@
 ## Bienvenido soy...
-**Desarrollador junior web frontend** y Estudiante de ingeneria de sistema. :crystal_ball:
+:headphones: **Desarrollador Web Frontend** :headphones: y Estudiante de ingeneria de sistema. :tophat: 
 
 ## Conocimientos
-    Uso los lenguajes: html, css, javascript.
-    Y herramientas como: react y figma. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente **busco trabajo**. :crystal_ball:
+Uso los lenguajes: html, css, javascript.
+Y herramientas como: react y figma :crystal_ball:. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente :hammer:**busco trabajo**:hammer:. 
 
-<img src=./foto.png/ >
-<img src=./foto1.png/ >
-<img src=./foto2.png/ >
-<img src=./foto3.png/ >
+<img src=./foto.png/ > <img src=./foto1.png/ > <img src=./foto2.png/ > <img src=./foto3.png/ >
 
 ## Redes
 
