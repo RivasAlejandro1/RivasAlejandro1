@@ -7,10 +7,7 @@
 
 
 ## ¿Qué Hago?
-Uso los lenguajes: html, css, javascript.
-Y herramientas como: react y figma :crystal_ball:. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente :hammer:**busco trabajo**:hammer:. 
-<img src=./foto.png/ > <img src=./foto1.png/ > <img src=./foto2.png/ > <img src=./foto3.png/ >
-
+Siempre estoy en la buscado de hacer proyectos que representen nuevos retos para mi, que me lleven a realizar y aprender nuevas funcionalidades o conceptos de manera que pueda ser más :cyclone: **eficiente y completo.** :cyclone:
 ## Redes
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) 
