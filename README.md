@@ -1,5 +1,4 @@
 ## ¡Bienvenido! | Soy Alejandro Rivas
---------------------------------------
 :headphones: **Desarrollador Web Frontend** :headphones: y Estudiante de ingeneria de sistema. :tophat: 
 
 ## Conocimientos
