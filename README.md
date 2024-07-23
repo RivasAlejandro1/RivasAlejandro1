@@ -1,7 +1,7 @@
 ## ¡Bienvenido! | Soy Alejandro Rivas
-:headphones: **Desarrollador Web Frontend** :headphones: y Estudiante de ingeneria de sistema. :tophat: 
 
-## Conocimientos
+## ¿Quien soy?
+:headphones: **Desarrollador Web FullStack** :headphones: enfocado en el Back-End y Estudiante de Ingeneria de Sistema. :tophat: 
 Uso los lenguajes: html, css, javascript.
 Y herramientas como: react y figma :crystal_ball:. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente :hammer:**busco trabajo**:hammer:. 
 
