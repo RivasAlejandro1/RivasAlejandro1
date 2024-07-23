@@ -3,6 +3,9 @@
 ## ¿Quien soy?
 :bird: **Desarrollador Web FullStack**  :bird: enfocado en el **Back-End** y Estudiante de **Ingeneria de Sistema**. :mortar_board:
 
+*Siempre me ha gustado la idea de crear herramientas para la solución de problemas. Incursione en el mundo de la programación para cumplir este sueño ya desde hace 2 años atras.*
+My primer lenguaje a probar a sido Python. Pero en el que he buscado profundizar fue Javascript
+
 Uso los lenguajes: html, css, javascript.
 Y herramientas como: react y figma :crystal_ball:. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente :hammer:**busco trabajo**:hammer:. 
 
