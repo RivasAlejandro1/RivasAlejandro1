@@ -8,6 +8,7 @@
 Uso los lenguajes: html, css, javascript.
 Y herramientas como: react y figma :crystal_ball:. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente :hammer:**busco trabajo**:hammer:. 
 
+## ¿Qué Hago?
 <img src=./foto.png/ > <img src=./foto1.png/ > <img src=./foto2.png/ > <img src=./foto3.png/ >
 
 ## Redes
