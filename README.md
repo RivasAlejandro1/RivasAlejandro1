@@ -13,3 +13,6 @@ Siempre estoy en la buscado de hacer proyectos que representen nuevos retos para
 **Mi meta es complementar mi vida con el codigo.**
 
 *Los conceptos, los procesos, la logica y la creatividad que existe detrás de la solucion de un problema ha sido mi principal fuente de inspiración en este mundo de caracteres.*
+
+## Tecnologias en Uso
+El Bootcamp me ha permitido aprender una baraja de herramientas 
