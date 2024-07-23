@@ -10,10 +10,6 @@
 Siempre estoy en la buscado de hacer proyectos que representen nuevos retos para mi, que me lleven a realizar y aprender nuevas funcionalidades o conceptos de manera que pueda ser más :cyclone: **eficiente y completo.** :cyclone:
 
 ## ¿A donde me dirijo?
-Mi meta es complementar mi vida con el codigo.
-Los conceptos, los procesos, la logica y la creatividad que existe detrás de la solucion de un problema ha sido mi principal fuente de inspiración en este mundo de caracteres.
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) 
+**Mi meta es complementar mi vida con el codigo.**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+*Los conceptos, los procesos, la logica y la creatividad que existe detrás de la solucion de un problema ha sido mi principal fuente de inspiración en este mundo de caracteres.*
