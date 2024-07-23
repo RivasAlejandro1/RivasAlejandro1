@@ -1,7 +1,7 @@
 ## ¡Bienvenido! | Soy Alejandro Rivas
 
 ## ¿Quien soy?
-:computer: :bird: **Desarrollador Web FullStack**  :bird: :computer: enfocado en el **Back-End** y Estudiante de **Ingeneria de Sistema**. :mortar_board:
+:bird: **Desarrollador Web FullStack**  :bird: enfocado en el **Back-End** y Estudiante de **Ingeneria de Sistema**. :mortar_board:
 
 Uso los lenguajes: html, css, javascript.
 Y herramientas como: react y figma :crystal_ball:. Estoy buscando constantemente aprender, comprender y mejorar en mis habiliadades como programador. Actualmente :hammer:**busco trabajo**:hammer:. 
